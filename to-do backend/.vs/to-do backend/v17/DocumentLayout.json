@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\egyetem\\PTI Msc\\4. f\u00E9l\u00E9v\\Fejlett felh\u0151\\beadand\u00F3\\to-do backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1AEF7A-E322-47B8-8011-716E4A30B991}|to-do backend.csproj|d:\\egyetem\\pti msc\\4. f\u00E9l\u00E9v\\fejlett felh\u0151\\beadand\u00F3\\to-do backend\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1AEF7A-E322-47B8-8011-716E4A30B991}|to-do backend.csproj|solutionrelative:controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1AEF7A-E322-47B8-8011-716E4A30B991}|to-do backend.csproj|d:\\egyetem\\pti msc\\4. f\u00E9l\u00E9v\\fejlett felh\u0151\\beadand\u00F3\\to-do backend\\models\\aiapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1AEF7A-E322-47B8-8011-716E4A30B991}|to-do backend.csproj|solutionrelative:models\\aiapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1AEF7A-E322-47B8-8011-716E4A30B991}|to-do backend.csproj|d:\\egyetem\\pti msc\\4. f\u00E9l\u00E9v\\fejlett felh\u0151\\beadand\u00F3\\to-do backend\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1AEF7A-E322-47B8-8011-716E4A30B991}|to-do backend.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1AEF7A-E322-47B8-8011-716E4A30B991}|to-do backend.csproj|d:\\egyetem\\pti msc\\4. f\u00E9l\u00E9v\\fejlett felh\u0151\\beadand\u00F3\\to-do backend\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1AEF7A-E322-47B8-8011-716E4A30B991}|to-do backend.csproj|solutionrelative:services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1AEF7A-E322-47B8-8011-716E4A30B991}|to-do backend.csproj|d:\\egyetem\\pti msc\\4. f\u00E9l\u00E9v\\fejlett felh\u0151\\beadand\u00F3\\to-do backend\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1AEF7A-E322-47B8-8011-716E4A30B991}|to-do backend.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1AEF7A-E322-47B8-8011-716E4A30B991}|to-do backend.csproj|d:\\egyetem\\pti msc\\4. f\u00E9l\u00E9v\\fejlett felh\u0151\\beadand\u00F3\\to-do backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1AEF7A-E322-47B8-8011-716E4A30B991}|to-do backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AiAPI.cs",
+              "DocumentMoniker": "D:\\egyetem\\PTI Msc\\4. f\u00E9l\u00E9v\\Fejlett felh\u0151\\beadand\u00F3\\to-do backend\\Models\\AiAPI.cs",
+              "RelativeDocumentMoniker": "Models\\AiAPI.cs",
+              "ToolTip": "D:\\egyetem\\PTI Msc\\4. f\u00E9l\u00E9v\\Fejlett felh\u0151\\beadand\u00F3\\to-do backend\\Models\\AiAPI.cs",
+              "RelativeToolTip": "Models\\AiAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:13:54.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AiController.cs",
+              "DocumentMoniker": "D:\\egyetem\\PTI Msc\\4. f\u00E9l\u00E9v\\Fejlett felh\u0151\\beadand\u00F3\\to-do backend\\Controllers\\AiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AiController.cs",
+              "ToolTip": "D:\\egyetem\\PTI Msc\\4. f\u00E9l\u00E9v\\Fejlett felh\u0151\\beadand\u00F3\\to-do backend\\Controllers\\AiController.cs",
+              "RelativeToolTip": "Controllers\\AiController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:09:26.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\egyetem\\PTI Msc\\4. f\u00E9l\u00E9v\\Fejlett felh\u0151\\beadand\u00F3\\to-do backend\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Models\\TodoItem.cs",
+              "ToolTip": "D:\\egyetem\\PTI Msc\\4. f\u00E9l\u00E9v\\Fejlett felh\u0151\\beadand\u00F3\\to-do backend\\Models\\TodoItem.cs",
+              "RelativeToolTip": "Models\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:45:50.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\egyetem\\PTI Msc\\4. f\u00E9l\u00E9v\\Fejlett felh\u0151\\beadand\u00F3\\to-do backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\egyetem\\PTI Msc\\4. f\u00E9l\u00E9v\\Fejlett felh\u0151\\beadand\u00F3\\to-do backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:17:23.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\egyetem\\PTI Msc\\4. f\u00E9l\u00E9v\\Fejlett felh\u0151\\beadand\u00F3\\to-do backend\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoController.cs",
+              "ToolTip": "D:\\egyetem\\PTI Msc\\4. f\u00E9l\u00E9v\\Fejlett felh\u0151\\beadand\u00F3\\to-do backend\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Controllers\\TodoController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA5wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:24:45.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "D:\\egyetem\\PTI Msc\\4. f\u00E9l\u00E9v\\Fejlett felh\u0151\\beadand\u00F3\\to-do backend\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "Services\\TodoService.cs",
+              "ToolTip": "D:\\egyetem\\PTI Msc\\4. f\u00E9l\u00E9v\\Fejlett felh\u0151\\beadand\u00F3\\to-do backend\\Services\\TodoService.cs",
+              "RelativeToolTip": "Services\\TodoService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:11:35.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

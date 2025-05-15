@@ -1,0 +1,33 @@
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\bin\Debug\net8.0\appsettings.Development.json
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\bin\Debug\net8.0\appsettings.json
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\bin\Debug\net8.0\Data\todos.json
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\bin\Debug\net8.0\to-do backend.exe
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\bin\Debug\net8.0\to-do backend.deps.json
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\bin\Debug\net8.0\to-do backend.runtimeconfig.json
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\bin\Debug\net8.0\to-do backend.dll
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\bin\Debug\net8.0\to-do backend.pdb
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\to-do backend.csproj.AssemblyReference.cache
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\to-do backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\to-do backend.AssemblyInfoInputs.cache
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\to-do backend.AssemblyInfo.cs
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\to-do backend.csproj.CoreCompileInputs.cache
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\to-do backend.MvcApplicationPartsAssemblyInfo.cs
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\to-do backend.MvcApplicationPartsAssemblyInfo.cache
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\staticwebassets\msbuild.to-do backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\staticwebassets\msbuild.build.to-do backend.props
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.to-do backend.props
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.to-do backend.props
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\scopedcss\bundle\to-do backend.styles.css
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\to-do ba.189E5880.Up2Date
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\to-do backend.dll
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\refint\to-do backend.dll
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\to-do backend.pdb
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\to-do backend.genruntimeconfig.cache
+D:\egyetem\PTI Msc\4. félév\Fejlett felhő\beadandó\to-do backend\obj\Debug\net8.0\ref\to-do backend.dll
