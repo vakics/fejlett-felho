@@ -10,7 +10,7 @@ from openai import OpenAI
 
 app = Flask(__name__)
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "PUT API KEY HERE"
 
 
 
